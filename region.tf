@@ -1,0 +1,1 @@
+data "aws_region" "current" {} #"${data.aws_region.current.region}.a ou valor da regiao"
